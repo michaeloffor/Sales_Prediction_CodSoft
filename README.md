@@ -12,6 +12,6 @@
 <h2>Project Structure</h2>
 <li>Data Preprocessing: Cleaning the data, handling missing values, and preparing it for model training.</li>
 <li>Exploratory Data Analysis (EDA): Visualizing the relationships between advertising budgets and sales to understand how each medium influences sales.</li>
-<li>Model Training: Training various machine learning models</li>
+<li>Model Training: Training Linear regression machine learning model</li>
 <li>Model Evaluation: Assessing the performance of the model using metrics like mean squared error (MSE), R-squared (R²), and mean absolute error (MAE).</li>
 <li>Prediction: Predicting sales based on new advertisement budget data</li>
